@@ -24,14 +24,6 @@
 
 ---
 
-## 📂 Projetos em destaque
-
-🔹 [CRUD API com Node.js e PostgreSQL](https://github.com/vicentejuniordev/crud-api)  
-🔹 [Mini Bot com Venom-Bot e Node.js](https://github.com/vicentejuniordev/mini-bot)  
-🔹 [API de Deputados com Laravel e MySQL (Dockerizada)](https://github.com/vicentejuniordev/api-deputados)
-
----
-
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
