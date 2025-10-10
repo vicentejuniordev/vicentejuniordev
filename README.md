@@ -41,6 +41,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/vicentejuniordev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
----
 
-⭐ *“O sucesso é construído com consistência, uma linha de código por vez.”*
