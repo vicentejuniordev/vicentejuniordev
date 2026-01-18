@@ -1,26 +1,55 @@
 # 👋 Olá! Eu sou o Vicente Carvalho
 
-💻 **Desenvolvedor Back-End**  
-🎯 Focado em construir aplicações escaláveis e seguras, com código limpo e boas práticas de desenvolvimento.  
-📚 Estudante de **Análise e Desenvolvimento de Sistemas**, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
+💻 **Desenvolvedor Back-End**
+🎯 Construo aplicações **escaláveis, seguras e previsíveis** — do jeito clássico: código limpo, boas práticas e responsabilidade técnica.
+📚 Estudante de **Análise e Desenvolvimento de Sistemas**, evoluindo todos os dias com base sólida e sem modismos desnecessários.
+
+---
+
+## 🧱 Sobre mim
+
+* Foco em **back-end robusto**, APIs bem definidas e dados bem cuidados
+* Experiência com **integração entre back-end e front-end** (web e mobile)
+* Valorizo **simplicidade, legibilidade e manutenção** — porque código vive mais que hype
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, TypeScript, Java, Python  
-- **Frameworks:** Node.js, Express, NestJS  
-- **Banco de Dados:** PostgreSQL, MySQL  
-- **Outros:** Docker, Git, Linux, VS Code, API REST
+**Linguagens**
+
+* JavaScript · TypeScript · Java · Python
+
+**Back-End**
+
+* Node.js · Express · NestJS
+
+**Banco de Dados**
+
+* PostgreSQL · MySQL
+
+**Infra & Qualidade**
+
+* Docker · Git · Linux · Testes Automatizados · API REST
+
+**Ambiente**
+
+* VS Code
 
 ---
 
 ## 🚀 O que estou estudando atualmente
 
-- Arquitetura e boas práticas de desenvolvimento back-end  
-- Integrações e segurança de APIs  
-- Testes automatizados e jobs com Node.js  
-- Docker e deploy em nuvem (Vercel / Render)
+* Arquitetura back-end e boas práticas (camadas, domínio e responsabilidade)
+* Segurança e integrações de APIs REST
+* Testes automatizados, jobs e rotinas assíncronas em Node.js
+* Dockerização e deploy em nuvem (Vercel / Render)
+
+---
+
+## 📌 Objetivo profissional
+
+Atuar como **Desenvolvedor Back-End**, contribuindo para soluções confiáveis, bem estruturadas e fáceis de evoluir — daquelas que não dão dor de cabeça seis meses depois.
 
 ---
 
@@ -37,8 +66,6 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicentejuniordev)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/vicentejuniordev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
-
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/vicentejuniordev](https://www.linkedin.com/in/vicentejuniordev)
+* 💻 **GitHub:** [https://github.com/vicentejuniordev](https://github.com/vicentejuniordev)
+* ✉️ **Email:** [seuemail@gmail.com](mailto:seuemail@gmail.com)
