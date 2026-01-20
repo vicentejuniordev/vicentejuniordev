@@ -68,4 +68,4 @@ Atuar como **Desenvolvedor Back-End**, contribuindo para soluções confiáveis,
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/vicentejuniordev](https://www.linkedin.com/in/vicentejuniordev)
 * 💻 **GitHub:** [https://github.com/vicentejuniordev](https://github.com/vicentejuniordev)
-* ✉️ **Email:** [seuemail@gmail.com](mailto:vicentejunior4522@gmail.com)
+* ✉️ **Email:** [vicentejunior4522@gmail.com](mailto:vicentejunior4522@gmail.com)
