@@ -1,71 +1,57 @@
-# 👋 Olá! Eu sou o Vicente Carvalho
+## Vicente Junior 
 
-💻 **Desenvolvedor Back-End**
-🎯 Construo aplicações **escaláveis, seguras e previsíveis** — do jeito clássico: código limpo, boas práticas e responsabilidade técnica.
-📚 Estudante de **Análise e Desenvolvimento de Sistemas**, evoluindo todos os dias com base sólida e sem modismos desnecessários.
 
----
+## Sobre mim
 
-## 🧱 Sobre mim
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas..
+- 💼 Interesse em aplicações escaláveis, seguras e bem estruturadas..
+- 🌱 Em constante evolução em arquitetura de software, APIs REST e boas práticas.
 
-* Foco em **back-end robusto**, APIs bem definidas e dados bem cuidados
-* Experiência com **integração entre back-end e front-end** (web e mobile)
-* Valorizo **simplicidade, legibilidade e manutenção** — porque código vive mais que hype
+## Minhas Skills
 
----
+**Aplicações e dados**
 
-## 🛠️ Tecnologias e Ferramentas
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Linguagens**
+**Utilidades**
 
-* JavaScript · TypeScript · Java · Python
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**Back-End**
+**DevOps**
 
-* Node.js · Express · NestJS
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-**Banco de Dados**
+**Ferramentas de desenvolvimento**
 
-* PostgreSQL · MySQL
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-**Infra & Qualidade**
+<br/>
 
-* Docker · Git · Linux · Testes Automatizados · API REST
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
-**Ambiente**
+## Onde me encontrar
 
-* VS Code
-
----
-
-## 🚀 O que estou estudando atualmente
-
-* Arquitetura back-end e boas práticas (camadas, domínio e responsabilidade)
-* Segurança e integrações de APIs REST
-* Testes automatizados, jobs e rotinas assíncronas em Node.js
-* Dockerização e deploy em nuvem (Vercel / Render)
-
----
-
-## 📌 Objetivo profissional
-
-Atuar como **Desenvolvedor Back-End**, contribuindo para soluções confiáveis, bem estruturadas e fáceis de evoluir — daquelas que não dão dor de cabeça seis meses depois.
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/vicentejuniordev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicentejuniordev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentejuniordev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-## 📫 Contato
-
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/vicentejuniordev](https://www.linkedin.com/in/vicentejuniordev)
-* 💻 **GitHub:** [https://github.com/vicentejuniordev](https://github.com/vicentejuniordev)
-* ✉️ **Email:** [vicentejunior4522@gmail.com](mailto:vicentejunior4522@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
