@@ -1,5 +1,6 @@
 ## Vicente Junior <img src="https://media.tenor.com/xXUf2hMuLo8AAAAi/16-bit-mario.gif" width="40">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicentejuniordev/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vicentejuniordev/)
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
