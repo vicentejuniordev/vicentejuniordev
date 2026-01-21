@@ -1,6 +1,7 @@
 ## Vicente Junior <img src="https://media.tenor.com/xXUf2hMuLo8AAAAi/16-bit-mario.gif" width="40">
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vicentejuniordev/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vicentecarvv_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vicentejunior4522@gmail.com)
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
