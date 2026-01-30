@@ -2,14 +2,14 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vicentejuniordev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vicentecarvv_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vicentejunior4522@gmail.com)
-## Sobre mim
+## Sobre mim <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width="50">
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas..
 - 💼 Interesse em aplicações escaláveis, seguras e bem estruturadas..
 - 🌱 Em constante evolução em arquitetura de software, APIs REST e boas práticas.
 
-## Minhas Skills
+## Minhas Skills <img src="https://media.tenor.com/XuEsUKOUd70AAAAi/street-fighter.gif" width="60">
 
 **Linguagens e Frameworks**
 
