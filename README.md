@@ -1,47 +1,151 @@
-<h1 align="center">I'm Backend Developer🤓</h1>
+<h1 align="center">👋 Hi, I'm Vicente Junior</h1>
 
-###
+<h3 align="center">Backend Developer | Node.js | TypeScript | NestJS</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
+<p align="center">
+  Building reliable, scalable and maintainable backend solutions.
+</p>
 
-###
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/vicentejuniordev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/vicentecarvv_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="vicentejunior4522@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:vicentejunior4522@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Backend Developer** focused on building APIs, business logic and services that solve real-world problems.
+
+Currently, my main focus is the **Node.js ecosystem**, especially **TypeScript and NestJS**, while continuously improving my knowledge of software architecture, databases, authentication and application infrastructure.
+
+I'm interested in developing systems that are:
+
+* ⚡ Efficient and scalable
+* 🔐 Secure and well-structured
+* 🧩 Maintainable and modular
+* 📚 Well documented
+* 🐳 Easy to deploy and manage
+
+I also have experience exploring **Python/Django, React and Linux**, which helps me understand the complete software development ecosystem.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,django" height="55" alt="Backend technologies" />
+</p>
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma" height="55" alt="Database technologies" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" height="55" alt="DevOps technologies" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="Frontend technologies" />
+</p>
+
+---
+
+## 🚀 Backend Skills
+
+### API Development
+
+* RESTful APIs
+* HTTP methods and status codes
+* API versioning
+* Request validation
+* Error handling
+* Swagger / OpenAPI documentation
+
+### Authentication & Authorization
+
+* JWT authentication
+* Role-Based Access Control (RBAC)
+* Guards and middleware
+* Password hashing
+* Access control
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* Prisma ORM
+* Data modeling
+* Relationships
+* Constraints and indexes
+* CRUD operations
+
+### Software Engineering
+
+* TypeScript
+* Object-Oriented Programming
+* Modular architecture
+* Clean Code
+* Separation of concerns
+* Git & GitHub workflows
+
+### Infrastructure
+
+* Docker
+* Linux
+* Environment variables
+* Application configuration
+* Containerized development environments
+
+
+## 📚 Currently Learning
+
+I'm continuously improving my backend development skills, with particular interest in:
+
+* 🏗️ Software Architecture
+* 🔐 Advanced Authentication & Authorization
+* 🗄️ Database Optimization
+* ⚡ API Performance
+* 🐳 Docker & Containers
+* ☁️ Cloud Infrastructure
+* 🧪 Automated Testing
+* 🔄 CI/CD
+* 📐 Design Patterns
+* 🧠 Distributed Systems
+
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vicentejuniordev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vicentejunior4522@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable backend solutions with code, curiosity and continuous learning. 🚀</i>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
 </div>
-
-###
-
-<h4 align="center">Buliding tech solutions with love</h4>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
